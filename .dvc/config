@@ -1,0 +1,4 @@
+[core]
+    remote = demo-data
+['remote "demo-data"']
+    url = /run/media/xiaodie/files/dvc
